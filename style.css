@@ -5,3 +5,9 @@ body {
 h1 {
     color: palevioletred;
 }
+
+#contact {
+    color: palevioletred;
+    list-style: none;
+    font-size: 3em;
+}
